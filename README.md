@@ -1,2 +1,3 @@
 # Course-Resources
-[! comment out](commentout.gif)
+
+![comment out](commentout.gif)
